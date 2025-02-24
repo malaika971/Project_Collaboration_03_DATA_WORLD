@@ -29,3 +29,12 @@ Interactive Dashboard:
 - Facebook Prophet – For time series forecasting.
 - Pandas & NumPy – For data manipulation.
 - scikit-learn – For clustering and anomaly detection.
+
+
+
+
+
+
+
+![s](https://github.com/user-attachments/assets/e4fa25cc-e78d-4c8c-9f19-dec1b5413d44)
+
